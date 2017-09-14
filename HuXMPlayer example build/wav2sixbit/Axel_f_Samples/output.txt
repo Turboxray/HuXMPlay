@@ -1,0 +1,12 @@
+
+Wave to 6bit and 5bit PCM formats.
+
+ Usage: wav2sixbit <src> <options>
+
+  -LS.<n>   Loop starting point.
+  -LE.<n>   Loop ending point.
+            <n>=$ffff (4 digit hex) 
+            <n>=65536 (5 digit decimal)
+
+
+  Tomaitheous '16
