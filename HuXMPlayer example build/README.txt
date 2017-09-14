@@ -24,8 +24,8 @@
        A batch file is included, go.bat, for windows command environment. The
       compiler PCEAS2 is also provided, but it's a windows build as well. The
       file output is main.pce. It's a binary rom file for the PC-Engine/Turbo-
-      Grafx 16 machine. It can used with an emulator. Mednafen (PC/mac/linux)
-      is highly recommended because of ita accuracy in timer and audio emulation.
+      Grafx 16 machine. It can be used with an emulator. Mednafen (PC/mac/linux)
+      is highly recommended because of its accuracy in timer and audio emulation.
       Other emulators might produced subpar audio performance (it's already a
       low playback rate with nearest neighbor scaling, and 5bit per waveform
       output).      
